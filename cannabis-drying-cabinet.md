@@ -12,8 +12,8 @@ Create a low-cost, silent drying cabinet maintaining a constant humidity of 60% 
 - **Structural Stability:** Due to the heavy 7-layer build, no additional internal wooden frames are required to support the hanging weight.
 
 ### 2. Capillary Humidifier
-- **Reservoir:** 45l IKEA Samla box (57 x 39 x 28 cm; source: https://www.ikea.com/sg/en/p/samla-box-with-lid-transparent-s39440767/), filled with approx. 20 liters of water for a fully maintenance-free 14-day run.
-- **Principle & Evaporation Media:** Evaporation via capillary wicks using hydroponic non-woven spreader mat (NFT Spreader Mat 1m x 40cm; source: https://www.higarden.cz/prislusenstvi-pro-nft/netkana-textilie-spreader-mat-pro-techniku-nft-1m-x-40cm/).
+- **Reservoir:** 45l [IKEA Samla box with lid](https://www.ikea.com/sg/en/p/samla-box-with-lid-transparent-s39440767/) (57 x 39 x 28 cm), filled with approx. 20 liters of water for a fully maintenance-free 14-day run.
+- **Principle & Evaporation Media:** Evaporation via capillary wicks using hydroponic non-woven spreader mat ([NFT Spreader Mat 1m x 40cm](https://www.higarden.cz/prislusenstvi-pro-nft/netkana-textilie-spreader-mat-pro-techniku-nft-1m-x-40cm/)).
 - **Internal Construction:** Inside the box, the spreader mat is wrapped in a double layer around a spiral-shaped wire mesh/netting, which holds the fabric rigidly together and maximizes the vertical evaporation surface area.
 - **Airflow & Lid Configuration:** The lid features two Arctic P14 PWM PST fans blowing air into the box. The box has ventilation holes along the sides, and internal plastic deflectors ensure humid air is smoothly guided out without blowing directly onto the hanging flowers.
 - **Water Management & Hygiene:**
