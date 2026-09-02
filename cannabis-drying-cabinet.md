@@ -25,7 +25,7 @@ Create a low-cost, silent drying cabinet maintaining a constant humidity of 60% 
 - **Layout & Configuration:**
   - **Humidifier (Samla box):** Equipped with 2 x Arctic P14 fans to efficiently push air across the evaporation wicks.
   - **Main Exhaust:** Equipped with 1 x Arctic P14 fan connected via a 3D-printed reduction (140 mm to 125 mm) into a 125 mm alu-flex exhaust duct.
-  - **Passive Intake:** Generous 200 mm alu-flex duct ensuring very low resistance and smooth fresh air intake.
+  - **Passive Intake:** Generous 200 mm alu-flex duct ensuring very low resistance and smooth fresh air intake, fitted with an external dust/particle filter made from old nylon stockings stretched over the outside of the 200 mm intake duct.
 - **Power & Regulation:** Operated on boosted voltage (approx. 6 to 8 V stepped up from 5V USB using an AliExpress DC-DC step-up converter with a rotary potentiometer knob for precise fan speed adjustment) for whisper-quiet operation and zero airflow draft.
 
 ### 4. Climate Control
