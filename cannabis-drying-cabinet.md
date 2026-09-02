@@ -43,7 +43,7 @@ Create a low-cost, silent drying cabinet maintaining a constant humidity of 60% 
 | :--- | :--- | :--- |
 | **Cardboard Box** | 7-layer robust heavy-duty box (120 x 80 x 80 cm) | 0 EUR (recycled) |
 | **Humidifier Box** | IKEA SAMLA 45l box (57 x 39 x 28 cm) | 6 EUR |
-| **Fans** | **Arctic P14 PWM PST** (140 mm pressure-optimized fans) | 24 EUR |
+| **Fans** | **Arctic P14 PWM PST** (3x 140 mm pressure-optimized fans @ approx. 8 EUR/pc) | 24 EUR |
 | **Power Supply & Regulation** | IKEA SMAHAGEL USB charger + AliExpress DC-DC step-up converter | 8 EUR |
 | **Hygrostat** | XH-W3005 digital hygrostat | 6 EUR |
 | **Ducting & 3D Print** | 125mm & 200mm alu-flex + 3D adapter | 8 EUR |
