@@ -46,6 +46,6 @@ Create a low-cost, silent drying cabinet maintaining a constant humidity of 60% 
 | **Fans** | **Arctic P14 PWM PST** (3x 140 mm pressure-optimized fans @ approx. 8 EUR/pc) | 24 EUR |
 | **Power Supply & Regulation** | IKEA SMAHAGEL USB charger + AliExpress DC-DC step-up converter | 8 EUR |
 | **Hygrostat** | XH-W3005 digital hygrostat | 6 EUR |
-| **Ducting & 3D Print** | 125mm & 200mm alu-flex + 3D adapter | 8 EUR |
+| **Ducting & 3D Print** | 125mm & 200mm (3m) alu-flex ([125mm](https://www.higarden.cz/aluflex/aluflex--prumer-125mm/), [200mm](https://www.higarden.cz/aluflex/aluflex--prumer-200mm/)) + 3D adapter | 8 EUR |
 | **Wicks & Hygiene** | NFT Spreader Mat + copper wire + H2O2 | 6 EUR |
 | **Total Estimated Cost** | | **approx. 58 EUR** |
