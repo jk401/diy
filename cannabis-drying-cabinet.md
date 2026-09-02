@@ -21,7 +21,7 @@ Create a low-cost, silent drying cabinet maintaining a constant humidity of 60% 
   - **Long-Term Protection:** Pure stripped copper wire (spiral made from a solid core electrical cable like CYKY) placed on the bottom of the reservoir - the oligodynamic effect of Cu2+ ions reliably prevents algae and slime formation for the full 14 days without chemical additives.
 
 ### 3. Ventilation
-- **Fans:** **Arctic P14 PWM PST** (140 mm pressure-optimized fans with PWM Sharing Technology; source: https://www.arctic.de/en/P14-PWM-PST/ACFAN00125A/).
+- **Fans:** **Arctic P14 PWM PST** (140 mm pressure-optimized fans featuring PWM Sharing Technology (PST) which allows daisy-chaining multiple fans together; source: https://www.arctic.de/en/P14-PWM-PST/ACFAN00125A/).
 - **Layout & Configuration:**
   - **Humidifier (Samla box):** Equipped with 2 x Arctic P14 fans to efficiently push air across the evaporation wicks.
   - **Main Exhaust:** Equipped with 1 x Arctic P14 fan connected via a 3D-printed reduction (140 mm to 125 mm) into a 125 mm alu-flex exhaust duct.
