@@ -12,7 +12,7 @@ Create a low-cost, silent drying cabinet maintaining a constant humidity of 60% 
 - **Structural Stability:** Due to the heavy 7-layer build, no additional internal wooden frames are required to support the hanging weight.
 
 ### 2. Capillary Humidifier
-- **Reservoir:** 45l [IKEA Samla box with lid](https://www.ikea.com/sg/en/p/samla-box-with-lid-transparent-s39440767/) (57 x 39 x 28 cm), filled with approx. 20 liters of water for a fully maintenance-free 14-day run.
+- **Reservoir:** 45l [IKEA Samla box with lid](https://www.ikea.com/sg/en/p/samla-box-with-lid-transparent-s39440767/) ([Samla Box Photo](./samla-box.jpg)) (57 x 39 x 28 cm), filled with approx. 20 liters of water for a fully maintenance-free 14-day run.
 - **Principle & Evaporation Media:** Evaporation via capillary wicks using hydroponic non-woven spreader mat ([NFT Spreader Mat 1m x 40cm](https://www.higarden.cz/prislusenstvi-pro-nft/netkana-textilie-spreader-mat-pro-techniku-nft-1m-x-40cm/)).
 - **Internal Construction:** Inside the box, the spreader mat is wrapped in a double layer around a spiral-shaped wire mesh/netting, which holds the fabric rigidly together and maximizes the vertical evaporation surface area.
 - **Airflow & Lid Configuration:** The lid features two Arctic P14 PWM PST fans blowing air into the box. The box has ventilation holes along the sides, and internal plastic deflectors ensure humid air is smoothly guided out without blowing directly onto the hanging flowers.
@@ -21,7 +21,7 @@ Create a low-cost, silent drying cabinet maintaining a constant humidity of 60% 
   - **Long-Term Protection:** Pure stripped copper wire (spiral made from a solid core electrical cable like CYKY) placed on the bottom of the reservoir - the oligodynamic effect of Cu2+ ions reliably prevents algae and slime formation for the full 14 days without chemical additives.
 
 ### 3. Ventilation
-- **Fans:** **Arctic P14 PWM PST** (140 mm pressure-optimized fans featuring PWM Sharing Technology (PST) which allows daisy-chaining multiple fans together; source: https://www.arctic.de/en/P14-PWM-PST/ACFAN00125A/).
+- **Fans:** **Arctic P14 PWM PST** ([3x 140 mm pressure-optimized fans](https://www.arctic.de/en/P14-PWM-PST/ACFAN00125A/) featuring PWM Sharing Technology (PST) which allows daisy-chaining multiple fans together).
 - **Layout & Configuration:**
   - **Humidifier (Samla box):** Equipped with 2 x Arctic P14 fans to efficiently push air across the evaporation wicks.
   - **Main Exhaust:** Equipped with 1 x Arctic P14 fan connected via a 3D-printed reduction (140 mm to 125 mm) into a 125 mm alu-flex exhaust duct ([Aluflex 125mm](https://www.higarden.cz/aluflex/aluflex--prumer-125mm/)).
@@ -33,7 +33,7 @@ Create a low-cost, silent drying cabinet maintaining a constant humidity of 60% 
 - **Control Logic & Operation:**
   - **Days 1 to 4 (High Evaporation Phase):** Fresh harvest releases massive moisture. The exhaust fan is manually adjusted to a higher speed setting so it continuously removes excess humidity while occasionally balancing out with the humidifier.
   - **Days 5 to 14 (Stabilization Phase):** After the initial drying period, the exhaust fan is turned down to its silent minimum speed, and the XH-W3005 hygrostat takes over completely, running exclusively on the humidifier to maintain the target 60% RH.
-- **Power Supply:** IKEA SMAHAGEL 3-port USB charger (providing 5V DC power, stepped up via DC-DC converter, placed externally outside the drying cabinet).
+- **Power Supply & Regulation:** IKEA SMAHAGEL 3-port USB charger providing 5V DC power, connected via a dedicated [USB to 4Pin PWM Fan Power Adapter Cable with Step-Up Boost](https://www.aliexpress.com/item/1005009180703923.html) (converting USB 5V to adjustable 12V / PWM control for silent fan operation), placed externally outside the drying cabinet.
 
 ---
 
@@ -44,8 +44,11 @@ Create a low-cost, silent drying cabinet maintaining a constant humidity of 60% 
 | **Cardboard Box** | 7-layer robust heavy-duty box (120 x 80 x 80 cm) | 0 EUR (recycled) |
 | **Humidifier Box** | IKEA SAMLA 45l box (57 x 39 x 28 cm) | 6 EUR |
 | **Fans** | **Arctic P14 PWM PST** (3x 140 mm pressure-optimized fans @ approx. 8 EUR/pc) | 24 EUR |
-| **Power Supply & Regulation** | IKEA SMAHAGEL USB charger + AliExpress DC-DC step-up converter | 8 EUR |
+| **IKEA Power Supply** | IKEA SMAHAGEL 3-port USB charger | 4 EUR |
+| **USB Fan Power Adapter** | [USB to 4Pin PWM Step-Up Boost Cable](https://www.aliexpress.com/item/1005009180703923.html) (5V to 12V / PWM) | 4 EUR |
 | **Hygrostat** | XH-W3005 digital hygrostat | 6 EUR |
-| **Ducting & 3D Print** | 125mm & 200mm (3m) alu-flex ([125mm](https://www.higarden.cz/aluflex/aluflex--prumer-125mm/), [200mm](https://www.higarden.cz/aluflex/aluflex--prumer-200mm/)) + 3D adapter | 8 EUR |
-| **Wicks & Hygiene** | NFT Spreader Mat + copper wire + H2O2 | 6 EUR |
+| **Alu-Flex Duct 125mm** | [Aluflex 125mm](https://www.higarden.cz/aluflex/aluflex--prumer-125mm/) (exhaust) | 3 EUR |
+| **Alu-Flex Duct 200mm** | [Aluflex 200mm, 3m](https://www.higarden.cz/aluflex/aluflex--prumer-200mm/) (passive intake) | 4 EUR |
+| **3D Print Adapter** | 140 mm to 125 mm reduction adapter | 1 EUR |
+| **Wicks & Hygiene** | [NFT Spreader Mat 1m x 40cm](https://www.higarden.cz/prislusenstvi-pro-nft/netkana-textilie-spreader-mat-pro-techniku-nft-1m-x-40cm/) + copper wire + H2O2 | 6 EUR |
 | **Total Estimated Cost** | | **approx. 58 EUR** |
